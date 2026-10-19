@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 5da9fe1d77b707c49921592f4e9f1074
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4666682588724394605
+    second: GameLogoFlowers_0
+  - first:
+      213: -923687734940340643
+    second: GameLogoFlowers_1
+  - first:
+      213: -6353510925897341465
+    second: GameLogoFlowers_2
+  - first:
+      213: -2951111752116367023
+    second: GameLogoFlowers_3
+  - first:
+      213: 1020452354240516671
+    second: GameLogoFlowers_4
+  - first:
+      213: -8068801294217238250
+    second: GameLogoFlowers_5
+  - first:
+      213: 5772350775097296869
+    second: GameLogoFlowers_6
+  - first:
+      213: 122692894054276868
+    second: GameLogoFlowers_7
+  - first:
+      213: 4893374832182193053
+    second: GameLogoFlowers_8
+  - first:
+      213: 7714729511278264285
+    second: GameLogoFlowers_9
+  - first:
+      213: -7379167661084732110
+    second: GameLogoFlowers_10
+  - first:
+      213: -2248896764464090616
+    second: GameLogoFlowers_11
+  - first:
+      213: 5105999179326347345
+    second: GameLogoFlowers_12
+  - first:
+      213: 2267683460492025277
+    second: GameLogoFlowers_13
+  - first:
+      213: 393983352704622769
+    second: GameLogoFlowers_14
+  - first:
+      213: -240316345177029781
+    second: GameLogoFlowers_15
+  - first:
+      213: -3354295619833038430
+    second: GameLogoFlowers_16
+  - first:
+      213: -5357907382562367124
+    second: GameLogoFlowers_17
+  - first:
+      213: 7783960412456009575
+    second: GameLogoFlowers_18
+  - first:
+      213: -4235021657291904596
+    second: GameLogoFlowers_19
+  - first:
+      213: 6830139885861875752
+    second: GameLogoFlowers_20
+  - first:
+      213: 2303098368570951039
+    second: GameLogoFlowers_21
+  - first:
+      213: 2509743568255104921
+    second: GameLogoFlowers_22
+  - first:
+      213: 8458339725279669898
+    second: GameLogoFlowers_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameLogoFlowers_0
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 852
+        width: 39
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395059329ec9c3fb0800000000000000
+      internalID: -4666682588724394605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_1
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 867
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5eee7326e66e23f0800000000000000
+      internalID: -923687734940340643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_2
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 823
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e56359a97bc3d7a0800000000000000
+      internalID: -6353510925897341465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_3
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 835
+        width: 52
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1519f924f7b8b07d0800000000000000
+      internalID: -2951111752116367023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_4
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 854
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3297b47200692e00800000000000000
+      internalID: 1020452354240516671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_5
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 852
+        width: 128
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61928f629fbd50090800000000000000
+      internalID: -8068801294217238250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_6
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 852
+        width: 34
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e700ac52728b1050800000000000000
+      internalID: 5772350775097296869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_7
+      rect:
+        serializedVersion: 2
+        x: 1736
+        y: 848
+        width: 36
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40fd19e7984e3b100800000000000000
+      internalID: 122692894054276868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_8
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 864
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b6e01db72c8e340800000000000000
+      internalID: 4893374832182193053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_9
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 198
+        width: 1897
+        height: 665
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfb6f9bd99301b60800000000000000
+      internalID: 7714729511278264285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_10
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 849
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2359ef6db1ee79990800000000000000
+      internalID: -7379167661084732110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_11
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 849
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802b791de405ac0e0800000000000000
+      internalID: -2248896764464090616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_12
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 845
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158de2b63372cd640800000000000000
+      internalID: 5105999179326347345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_13
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 836
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd7a5b71e687f10800000000000000
+      internalID: 2267683460492025277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_14
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 818
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0606995c5b77500800000000000000
+      internalID: 393983352704622769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_15
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 814
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63c00cae893aacf0800000000000000
+      internalID: -240316345177029781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_16
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 806
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a9f334d7e52371d0800000000000000
+      internalID: -3354295619833038430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_17
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 814
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c695dea7f93e4a5b0800000000000000
+      internalID: -5357907382562367124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_18
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 797
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76fb42201ce260c60800000000000000
+      internalID: 7783960412456009575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_19
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 806
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a705ad3e2a35c0800000000000000
+      internalID: -4235021657291904596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_20
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 228
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820360fd90889ce50800000000000000
+      internalID: 6830139885861875752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_21
+      rect:
+        serializedVersion: 2
+        x: 1482
+        y: 238
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f75047d83cf36ff10800000000000000
+      internalID: 2303098368570951039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_22
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 219
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 997ba276a7664d220800000000000000
+      internalID: 2509743568255104921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameLogoFlowers_23
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 212
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8eaeda7a2f026570800000000000000
+      internalID: 8458339725279669898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameLogoFlowers_0: -4666682588724394605
+      GameLogoFlowers_1: -923687734940340643
+      GameLogoFlowers_10: -7379167661084732110
+      GameLogoFlowers_11: -2248896764464090616
+      GameLogoFlowers_12: 5105999179326347345
+      GameLogoFlowers_13: 2267683460492025277
+      GameLogoFlowers_14: 393983352704622769
+      GameLogoFlowers_15: -240316345177029781
+      GameLogoFlowers_16: -3354295619833038430
+      GameLogoFlowers_17: -5357907382562367124
+      GameLogoFlowers_18: 7783960412456009575
+      GameLogoFlowers_19: -4235021657291904596
+      GameLogoFlowers_2: -6353510925897341465
+      GameLogoFlowers_20: 6830139885861875752
+      GameLogoFlowers_21: 2303098368570951039
+      GameLogoFlowers_22: 2509743568255104921
+      GameLogoFlowers_23: 8458339725279669898
+      GameLogoFlowers_3: -2951111752116367023
+      GameLogoFlowers_4: 1020452354240516671
+      GameLogoFlowers_5: -8068801294217238250
+      GameLogoFlowers_6: 5772350775097296869
+      GameLogoFlowers_7: 122692894054276868
+      GameLogoFlowers_8: 4893374832182193053
+      GameLogoFlowers_9: 7714729511278264285
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
